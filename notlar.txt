@@ -4,3 +4,10 @@ Linux Komutları:
 3- ls: Klasördeki klasörleri ve dosyaları listeler.
 4- cat: Dosyanın içeriğini konsolda gösterir.
 5- mkdir: Klasör içerisinde bir klasör oluşturur.
+
+Git komutları:
+1- git init: Yeni bir repo tanımlar.
+2- git status: Nelerin değiştiğini gösterir.
+3- git add: Bir dosyayı commit'e hazır hale getirir.
+4- git log: commit geçmişini gösterir.
+5- git diff: Son commit'ten itibaren nelerin değiştiğini gösterir.
