@@ -1,0 +1,6 @@
+Linux Komutları:
+1- pwd: Güncel klasörün path'ini gösterir.
+2- cd: Klasörler arasında gezinmeye yardımcı olur.
+3- ls: Klasördeki klasörleri ve dosyaları listeler.
+4- cat: Dosyanın içeriğini konsolda gösterir.
+5- mkdir: Klasör içerisinde bir klasör oluşturur.
